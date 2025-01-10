@@ -7,3 +7,8 @@ Inference with explainability methods:
 Recommended to generate figures one by one to avoid RAM overload
 
 It is also possible to use --image_path instead of --image_url
+
+
+TO DO:
+- Add copyright for CERTH team
+- Should we release the weights url?
