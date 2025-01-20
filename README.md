@@ -11,4 +11,4 @@ It is also possible to use --image_path instead of --image_url
 
 TO DO:
 - Add copyright for CERTH team
-- Should we release the weights url?
+- Should we release the weights url? NO-> explain that it is propierty of CERTH
