@@ -2,6 +2,7 @@
 
 Official repository for  Combi-CAM: A Novel Grad-CAM Approach for Geolocalization Explainability paper.
 
+![Explainability Methods](https://github.com/DavidFaget/Combi-CAM/blob/main/images/explainability_methods.png)
 ## Inference with explainability methods:
 
 ```bash
