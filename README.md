@@ -6,6 +6,7 @@ Official repository for  Combi-CAM: A Novel Grad-CAM Approach for Geolocalizatio
 
 ```bash
 !python inference.py --image_url "..." --use_cpu --layercam --gradcam --gradcamplusplus --combicam
+```
 
 Recommended to generate figures one by one to avoid RAM overload.
 
