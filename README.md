@@ -3,12 +3,12 @@
 Official repository for  Combi-CAM: A Novel Grad-CAM Approach for Geolocalization Explainability paper.
 
 
-![Explainability Methods](https://github.com/DavidFaget/Combi-CAM/blob/main/images/explainability_methods.png)
+![Explainability Methods](https://github.com/DavidFaget/Combi-CAM/blob/main/images/methods.png)
 
 ## Inference with explainability methods:
 
 ```bash
-!python inference.py --image_url "..." --use_cpu --layercam --gradcam --gradcamplusplus --combicam
+!python inference.py --image_url "..." --use_cpu --layercam --gradcam --gradcamplusplus --scorecam --combicam
 ```
 
 Recommended to generate figures one by one to avoid RAM overload.
