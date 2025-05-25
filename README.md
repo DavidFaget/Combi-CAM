@@ -16,7 +16,7 @@ Recommended to generate figures one by one to avoid RAM overload.
 It is also possible to use --image_path instead of --image_url.
 
 ## Additional Talk2Car Examples
-Additional examples of the application of Combi-CAM on Talk2Car [2] dataset images can be found in the Talk2Car folder.
+Additional illustrations of the application of Combi-CAM on Talk2Car [2] dataset images can be found in the examples folder.
 
 ## Copyright
 This repository uses the geolocation model developed by the CERTH team. All rights and credits for the geolocation model belong to CERTH.
