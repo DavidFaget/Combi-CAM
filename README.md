@@ -3,7 +3,7 @@
 Official repository for Combi-CAM: Explainable Geolocalization for Autonomous Driving paper.
 
 
-![Heading of the paper](https://github.com/DavidFaget/Combi-CAM/blob/main/examples/images/paper.png)
+![Heading of the paper](https://github.com/DavidFaget/Combi-CAM/blob/main/examples/images/road_combicam.png)
 
 ## Inference with explainability methods:
 
