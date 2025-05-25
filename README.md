@@ -13,7 +13,7 @@ Official repository for Combi-CAM: Explainable Geolocalization for Autonomous Dr
 
 Recommended to generate figures one by one to avoid RAM overload.
 
-It is also possible to use --image_path instead of --image_url.
+It is also possible to use --image_path instead of --image_url to reference an image in local storage.
 
 ## Additional Talk2Car Examples
 Additional illustrations of the application of Combi-CAM on Talk2Car [2] dataset images can be found in the examples folder.
