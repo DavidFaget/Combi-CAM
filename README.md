@@ -1,6 +1,6 @@
-# Combi-CAM: A Novel Grad-CAM Approach for Geolocalization Explainability
+# Combi-CAM: Explainable Geolocalization for Autonomous Driving
 
-Official repository for  Combi-CAM: A Novel Grad-CAM Approach for Geolocalization Explainability paper.
+Official repository for Combi-CAM: Explainable Geolocalization for Autonomous Driving paper.
 
 
 ![Explainability Methods](https://github.com/DavidFaget/Combi-CAM/blob/main/images/cams.png)
