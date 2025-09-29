@@ -1,7 +1,6 @@
-# Combi-CAM: A Novel Grad-CAM Approach for Geolocalization Explainability
+# Combi-CAM: A Novel Multi-Layer Approach for Explainable Image Geolocalization
 
-Official repository for  Combi-CAM: A Novel Grad-CAM Approach for Geolocalization Explainability paper.
-
+Official repository for Combi-CAM: A Novel Multi-Layer Approach for Explainable Image Geolocalization
 
 ![Explainability Methods](https://github.com/DavidFaget/Combi-CAM/blob/main/images/cams.png)
 
