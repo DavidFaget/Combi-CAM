@@ -28,10 +28,23 @@ Generate CAM visualizations one at a time to avoid RAM overload.
 ```
 Combi-CAM/
 │
-├── inference.py        # Main script for inference & explainability
-├── combicam/           # Core implementation of Combi-CAM and CAM variants
-├── images/             # Example visualizations
-└── README.md           # (this file)
+├── data/ # CERTH geolocation model assets (proprietary)
+│ ├── cells_assignments.pkl
+│ └── initial_mu_kappa.pkl
+│
+├── images/ # Images used in the README
+│
+├── notebooks/
+│ └── Combi-CAM_playground.ipynb # Playground notebook for inference & visualization
+│
+├── src/ # Main source code
+│ ├── modules.py # Model components + Combi-CAM implementation
+│ └── utils.py # Utility functions
+│
+├── README.md
+├── LICENSE.txt # Defines the License
+├── inference.py # Inference script (supports all CAM methods)
+└── requirements.txt # Python dependencies
 ```
 
 ## 📜 Citation
