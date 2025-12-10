@@ -28,7 +28,7 @@ Generate CAM visualizations one at a time to avoid RAM overload.
 ```
 Combi-CAM/
 │
-├── data/ # CERTH geolocation model assets (proprietary)
+├── data/ # CERTH geolocalization model assets (proprietary)
 │ ├── cells_assignments.pkl
 │ └── initial_mu_kappa.pkl
 │
@@ -53,10 +53,10 @@ If you use Combi-CAM in your research, please cite the associated paper Combi-CA
 VISAPP 2026
 
 ## 🛡 Copyright
-This repository uses the geolocation model developed by the CERTH team. All rights and credits for the geolocation model belong to CERTH. Combi-CAM is an original contribution introduced in the associated paper.
+This repository uses the geolocalization model developed by the CERTH team. All rights and credits for the geolocalization model belong to CERTH. Combi-CAM is an original contribution introduced in the associated paper.
 
 ## 📦 Model Weights
-This repository relies on the geolocation model developed by CERTH based on EfficientNet-B4.
+This repository relies on the geolocalization model developed by CERTH based on EfficientNet-B4.
 The weights are proprietary and cannot be distributed.
 
 To request access, please contact the authors of:
